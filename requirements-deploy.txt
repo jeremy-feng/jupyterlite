@@ -1,0 +1,9 @@
+jupyterlab
+jupyterlite-core
+jupyterlite-pyodide-kernel
+notebook
+jupyterlab-language-pack-zh-CN
+jupyterlab-night
+ipywidgets
+nbformat
+plotly
